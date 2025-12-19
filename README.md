@@ -13,8 +13,7 @@
 
 ## 📢 News
 
-- **[2025.xx]** 🎉 Paper is under review!
-- **[2025.xx]** 📦 Code will be released upon paper acceptance.
+- **[2025.]** 📦 Code will be released upon paper acceptance.
 
 ---
 
@@ -63,7 +62,7 @@ If you find this work useful, please consider citing:
 
 ## 📧 Contact
 
-If you have any questions, please feel free to contact: `your-email@example.com`
+If you have any questions, please feel free to contact: `oceanxuli@whu.edu.cn`
 
 ---
 
